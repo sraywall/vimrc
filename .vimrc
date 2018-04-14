@@ -30,7 +30,7 @@ set hlsearch                      " Highlight matches.
 set wrap                          " Turn on line wrapping.
 set scrolloff=3                   " Show 3 lines of context around the cursor.
 
-set title                         " Set the terminal's title
+set notitle                         " Set the terminal's title
 
 set visualbell                    " No beeping.
 
